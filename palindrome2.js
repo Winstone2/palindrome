@@ -17,3 +17,5 @@ console.log(isPalindrome('Lol'));
 //prints false because 'Lol' is not the same as 'loL'.
 console.log(isPalindrome('tom'));
 //prints false because 'tom' is not a palindrome.
+console.log(isPalindrome('ttat'));
+console.log(isPalindrome('pap'));
